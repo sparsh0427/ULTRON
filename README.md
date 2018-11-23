@@ -12,21 +12,21 @@ The idea behind the project is quite easy by using two Ultrasonic Sensors with A
 
 ## Languages and Technologies Used 
 ### Hardware components: 
-Arduino 
-Two Ultrasonic Sensors (HC-SR04) 
-Some wires 
+Arduino <br />
+Two Ultrasonic Sensors (HC-SR04) <br /> 
+Some wires <br/>
 ### Software apps: 
-Arduino IDE 
-Python IDLE 
-PySerial library (We will use to communicate with serial ports). 
-PyAutogui library (We will use to perform keyboard actions).
+Arduino IDE <br />
+Python IDLE <br />
+PySerial library (We will use to communicate with serial ports). <br />
+PyAutogui library (We will use to perform keyboard actions). <br />
 
  ## TEAM MEMBERS:
- 1)SPARSH CHADHA
- 2)ROOHEIN MALHOTRA
- 3)SNIGDHAA SHARMA
- 4)SHUBH PATEL
- 5)RITIK AGGARWAL
+ 1)SPARSH CHADHA <br />
+ 2)ROOHEIN MALHOTRA <br />
+ 3)SNIGDHAA SHARMA <br />
+ 4)SHUBH PATEL <br />
+ 5)RITIK AGGARWAL <br />
  
  
 
