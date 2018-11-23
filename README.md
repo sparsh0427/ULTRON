@@ -10,7 +10,8 @@ Instead of using a keyboard, mouse, remote or joystick, we can use our hand gest
 ## Functionality 
 The idea behind the project is quite easy by using two Ultrasonic Sensors with Arduino. We will place the two sensors on the top of a screen and calculate the distance between the hand and the sensor. Counting on the information from Arduino that is sent to Python through the serial port, this information will then be read by Python which is running on the computer in order to perform certain actions.
 
-![](C:\Users\Sparsh\Downloads\Arduino-based-Hand-Gesture-Control-Image-1.jpg)
+![arduino-based-hand-gesture-control-image-1](https://user-images.githubusercontent.com/44002990/48954836-1a83fa80-ef71-11e8-9cf6-6f73228878e7.jpg)
+
 
 ## Languages and Technologies Used 
 ### Hardware components: 
