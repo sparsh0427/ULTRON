@@ -26,12 +26,6 @@ Python IDLE <br />
 PySerial library (We will use to communicate with serial ports). <br />
 PyAutogui library (We will use to perform keyboard actions). <br />
 
- ## TEAM MEMBERS:
- 1)SPARSH CHADHA <br />
- 2)ROOHEIN MALHOTRA <br />
- 3)SNIGDHAA SHARMA <br />
- 4)SHUBH PATEL <br />
- 5)RITIK AGGARWAL <br />
  
 ![ultron ppt -page-012](https://user-images.githubusercontent.com/44002990/48955392-b9115b00-ef73-11e8-9017-1a120c64c779.jpg)
  
