@@ -1,6 +1,6 @@
 # ULTRON
 
-With the advent of sensing technology,the security and assistance needed in our daily life is greatly enhanced by highly sophisticated sensors. Sensing systems not only secure our important protocols but also provide real time assistance. This project focuses on advancing technologies and also making human work easier. Using remote or a specific device to control computer makes it tedious task , so as to make it more easier we are using hand gestures to control basic computer functions..
+With the advent of sensing technology,the security and assistance needed in our daily life is greatly enhanced by highly sophisticated sensors. Sensing systems not only secure our important protocols but also provide real time assistance. This project focuses on advancing technologies and also making human work easier. Using remote or a specific device to control computer makes it tedious task , so as to make it more easier we are using hand gestures to control basic computer functions.
 
 ![arduino-based-hand-gesture-control-image-7-760x440](https://user-images.githubusercontent.com/44002990/48954886-57e88800-ef71-11e8-8f53-561c5e1ed9dc.jpg)
 
